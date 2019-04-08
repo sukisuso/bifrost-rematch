@@ -1,0 +1,16 @@
+{
+  "name": "bifrost-rematch",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jesus Juan Aguilar",
+  "license": "MIT",
+  "dependencies": {
+    "@rematch/core": "^1.1.0",
+    "react-redux": "^6.0.1",
+    "react": "^16.6.0"
+  }
+}
